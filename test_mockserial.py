@@ -1,5 +1,6 @@
 import serial
 
+
 class MockSerialPort(serial.Serial):
     """ This is a class that will provide a mock interface for the serial port """
 
